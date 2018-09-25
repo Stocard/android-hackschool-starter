@@ -1,0 +1,13 @@
+.gradle
+build
+local.properties
+app/app.iml
+.idea/libraries
+
+.idea/caches/build_file_checksums.ser
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+.idea/workspace.xml

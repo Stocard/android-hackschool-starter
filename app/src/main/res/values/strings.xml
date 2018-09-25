@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cool Chat</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="save_name">Save Name</string>
+    <string name="name">Name</string>
+    <string name="profile_activity_title">Choose a name</string>
+</resources>
